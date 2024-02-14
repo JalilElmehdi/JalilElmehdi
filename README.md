@@ -1,4 +1,4 @@
-<img src="![Uploading image.png…]()
+
 "  />
 👋 Salut, je suis @JalilElmehdi
 - 👀 Je m'intéresse au Développement Digital
